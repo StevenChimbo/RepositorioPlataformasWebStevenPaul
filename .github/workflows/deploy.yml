@@ -54,7 +54,7 @@ jobs:
 
         with:
 
-          path: 'Practica01'
+          path: 'Practica01/Ejemplos'
  
       - name: Deploy to GitHub Pages
 
